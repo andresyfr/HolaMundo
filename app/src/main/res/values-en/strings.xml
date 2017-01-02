@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="titulo_app">My Hi World!!</string>
-    <string name="sub_title_app">How are you!!</string>
+    <string name="titulo_bienvenida_inicio">Welcome</string>
+    <string name="boton_entrar_inicio">Enter</string>
 </resources>
