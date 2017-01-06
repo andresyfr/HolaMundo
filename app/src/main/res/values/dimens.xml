@@ -4,7 +4,9 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="text_tam">50dp</dimen>
+    <dimen name="text_tam_land">100dp</dimen>
     <dimen name="boton_tamano">15dp</dimen>
+    <dimen name="boton_tamano_land">20dp</dimen>
     <dimen name="espacio_boton_inicio">78dp</dimen>
     <dimen name="espacio_boton_inicio_land">8dp</dimen>
 </resources>

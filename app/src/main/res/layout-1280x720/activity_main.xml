@@ -23,7 +23,7 @@
         android:layout_centerHorizontal="true"
         android:textColor="@android:color/background_light"
         android:textStyle="normal|bold"
-        android:textSize="@dimen/text_tam_land" />
+        android:textSize="@dimen/text_tam" />
 
     <Button
         android:text="@string/boton_entrar_inicio"
@@ -32,8 +32,9 @@
         android:background="@drawable/home_button"
         android:id="@+id/button"
         style="@style/Widget.AppCompat.Button.Borderless"
-        android:textAllCaps="false"
-        android:textSize="@dimen/boton_tamano_land"
+        android:layout_marginTop="@dimen/espacio_boton_inicio"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="false"
+        android:textSize="@dimen/boton_tamano" />
 </RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="text_tam">80dp</dimen>
+    <dimen name="text_tam_land">100dp</dimen>
+    <dimen name="boton_tamano">50dp</dimen>
+    <dimen name="boton_tamano_land">50dp</dimen>
+    <dimen name="espacio_boton_inicio">150dp</dimen>
+    <dimen name="espacio_boton_inicio_land">150dp</dimen>
+</resources>
